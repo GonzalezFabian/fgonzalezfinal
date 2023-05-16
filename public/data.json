@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Cuadro enduro",
+    "author": "TFDP",
+    "price": 19747,
+    "img": "https://m.media-amazon.com/images/I/51TYjnoFYCL._AC_SX679_.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "Tubo manillar",
+    "author": "Wake",
+    "price": 2030,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_951805-MLM43648766805_102020-O.webp",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Cambios aCDR45",
+    "author": "DMX",
+    "price": 2790,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_898032-MLM51201853148_082022-O.webp",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Frenos GX",
+    "author": "SRAM, GX1 Eagle AXS",
+    "price": 1800,
+    "img": "https://m.media-amazon.com/images/I/51W8a44YTTL._AC_SX679_.jpg",
+    "quanty": 1
+  }
+]
